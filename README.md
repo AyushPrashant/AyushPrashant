@@ -702,7 +702,7 @@ Docker • AWS • CI/CD
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GITHUB COMMAND CENTER
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushPrashant&show_icons=true&theme=dark&hide_border=true" height="165"/>
@@ -713,12 +713,106 @@ Docker • AWS • CI/CD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPrashant&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
----
 
 <p align="center">
-  💼 <b>Open to Backend Development, Full-Stack Engineering, and AI/Generative AI Engineering roles.</b>
+  <sub>CODE • CONTRIBUTIONS • LANGUAGES • ACTIVITY</sub>
+</p>
+
+<br/>
+
+<!-- PROFILE OVERVIEW -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushPrashant&theme=github_dark"
+    width="92%"
+    alt="GitHub profile overview"
+  />
+</p>
+
+<br/>
+
+<!-- STATS GRID -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushPrashant&theme=github_dark"
+    width="44%"
+    alt="Repositories by language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushPrashant&theme=github_dark"
+    width="44%"
+    alt="Most committed languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1F3A5F&height=100&section=footer" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushPrashant&theme=github_dark"
+    width="44%"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushPrashant&theme=github_dark&utcOffset=5.5"
+    width="44%"
+    alt="Productive coding time"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>⚡ Building consistently • Shipping continuously • Learning relentlessly</sub>
+</p>
+
+
+---
+
+## ◈ LET'S BUILD SOMETHING
+
+<p align="center">
+  <sub>OPEN TO BUILDING • COLLABORATING • SOLVING HARD PROBLEMS</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-6DB33F?style=for-the-badge&labelColor=0B1220"/>
+</p>
+
+<p align="center">
+  <b>Backend Engineering</b>
+  &nbsp;•&nbsp;
+  <b>Full-Stack Development</b>
+  &nbsp;•&nbsp;
+  <b>AI / Generative AI</b>
+</p>
+
+<br/>
+
+<p align="center">
+
+<a href="https://ayushprashant04.netlify.app">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-0B1220?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Ayush-Prashant/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-16324F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumarayush24556@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-2E7D5B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:16324F,100:0B1220&height=110&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <sub><b>Ayush Kumar</b> · Java · Systems · AI</sub>
 </p>
