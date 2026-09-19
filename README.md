@@ -14,55 +14,232 @@
   <a href="mailto:kumarayush24556@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🚀 About Me
+## ◈ ABOUT / SYSTEM PROFILE
 
-<p>
-  <img src="https://img.shields.io/badge/version-v4.0.0--beta-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-actively--shipping-orange?style=flat-square"/>
+<p align="center">
+  <sub>JAVA • BACKEND • SYSTEMS • GENERATIVE AI</sub>
 </p>
 
-Most people write their bio as a paragraph. I write mine as release notes — because a career, like good software, is just a series of honest changelogs.
+<br/>
 
-```diff
-# CHANGELOG.md
-# All notable changes to this human will be documented in this file.
+<table width="100%">
+<tr>
 
-## [v4.0.0-beta] — Unreleased
-### Added
-+ Agentic AI workflows and multi-agent orchestration patterns
-+ RAG pipeline design, deeper system design at scale
-### Status
-? Currently compiling. No known ETA — that's the fun part.
+<td width="60%" valign="top">
 
-## [v3.1.0] — 2026
-### Added
-+ Redis-compatible server, built from scratch in Java (raw TCP sockets, RESP protocol,
-  atomic MULTI/EXEC/DISCARD transactions)
-+ 45+ production REST APIs @ WEBAI Digital Solutions
-+ Oracle Certified — Generative AI Professional & AI Foundations Associate
-### Fixed
-! API response latency — optimized queries & endpoints, -25%
+### Hey, I'm Ayush 👋
 
-## [v2.0.0] — Oct 2024
-### Added
-+ Promoted: Full Stack Intern → Software Development Engineer
-+ Full Healthcare Management Platform — Spring Boot, JWT, role-based access control
-### Changed
-* Stopped trusting a library until I've read its source code
+**Java Full Stack Software Engineer** focused on building backend systems, production APIs, and AI-powered applications.
 
-## [v1.0.0] — Aug 2023
-### Added
-+ Initial commit: enrolled in B.Tech, Computer Science Engineering
-+ First "Hello World" — never looked back
+I like working where **software meets systems** — designing APIs, reasoning about databases and concurrency, optimizing performance, and understanding what happens beneath the abstractions I use.
 
-[Compare v3.1.0...v4.0.0-beta](https://github.com/AyushPrashant)
+I've shipped **45+ production REST APIs**, built a **Redis-compatible server from scratch in Java**, and developed full-stack systems with secure, role-based architectures.
+
+Now I'm going deeper into **System Design, Distributed Systems, Generative AI, RAG, and Agentic workflows.**
+
+<br/>
+
+> **Build it. Understand it. Optimize it. Ship it.**
+
+</td>
+
+<td width="40%" valign="top">
+
+### `SYSTEM STATUS`
+
+```text
+┌──────────────────────────┐
+│ AYUSH.RUNTIME            │
+├──────────────────────────┤
+│                          │
+│ ● STATUS    SHIPPING     │
+│                          │
+│ LANG      → JAVA         │
+│ BACKEND   → SPRING       │
+│ DATA      → MYSQL/REDIS  │
+│ FRONTEND  → REACT        │
+│ AI        → ACTIVE       │
+│                          │
+│ FOCUS                    │
+│ ├─ SYSTEM DESIGN         │
+│ ├─ DISTRIBUTED SYSTEMS   │
+│ ├─ RAG                   │
+│ └─ AGENTIC AI            │
+│                          │
+└──────────────────────────┘
 ```
 
-**Currently running:** `Java` `Spring Boot` `React` `MySQL` `Generative AI`
-**Currently debugging:** the gap between *"it works on my machine"* and production
-**Open to merge requests on:** backend systems, AI-powered products, and hard problems in general
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+### ⚡ ENGINEERING TIMELINE
+
+<p align="center">
+  <sub>FROM FIRST COMMIT → PRODUCTION SYSTEMS → INTELLIGENT SYSTEMS</sub>
+</p>
+
+<br/>
+
+<table width="100%">
+
+<tr>
+<td width="18%" align="center">
+
+### `2023`
+
+`FOUNDATION`
+
+</td>
+
+<td>
+
+**Started the journey**
+
+B.Tech CSE → programming fundamentals → DSA → databases → first serious projects.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `2024`
+
+`PRODUCTION`
+
+</td>
+
+<td>
+
+**Started building for real users**
+
+Full-stack development → Spring Boot → authentication → RBAC → healthcare platform → production APIs.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `2025`
+
+`SYSTEMS`
+
+</td>
+
+<td>
+
+**Went beneath the abstraction**
+
+Built a Redis-compatible server in Java using **raw TCP sockets, RESP, TTL, concurrency and atomic transactions**.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `2026`
+
+`INTELLIGENCE`
+
+</td>
+
+<td>
+
+**Connecting systems with AI**
+
+Generative AI → RAG → Agentic workflows → AI-powered applications → scalable system architecture.
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+### 🧠 ENGINEERING PRINCIPLES
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+**01 · Understand the abstraction**
+
+I don't want to only know *which API to call* — I want to understand what happens underneath it.
+
+<br/>
+
+**02 · Build before judging**
+
+The fastest way to understand a system is often to build a smaller version yourself.
+
+</td>
+
+<td width="50%" valign="top">
+
+**03 · Optimize with a reason**
+
+Performance optimization should be driven by measurement, not assumptions.
+
+<br/>
+
+**04 · Ship useful software**
+
+Architecture matters, but software ultimately has to solve a real problem.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+### 🔭 CURRENTLY IN THE LAB
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-JAVA%20%2B%20SPRING-0B1220?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/02-SYSTEM%20DESIGN-16324F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-GENERATIVE%20AI-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-AGENTIC%20SYSTEMS-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+```text
+┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+│    SYSTEMS   │ ───→  │   BACKEND    │ ───→  │ INTELLIGENCE │
+│              │       │              │       │              │
+│ TCP          │       │ APIs         │       │ GenAI        │
+│ Concurrency  │       │ Security     │       │ RAG          │
+│ Protocols    │       │ Databases    │       │ Agents       │
+└──────────────┘       └──────────────┘       └──────────────┘
+```
+
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Currently compiling.</b>
+  <br/>
+  <sub>There is always another system worth understanding.</sub>
+</p>
 
 ---
 
@@ -816,3 +993,4 @@ Docker • AWS • CI/CD
 <p align="center">
   <sub><b>Ayush Kumar</b> · Java · Systems · AI</sub>
 </p>
+
