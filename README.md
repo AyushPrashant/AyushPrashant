@@ -74,57 +74,189 @@ Most people write their bio as a paragraph. I write mine as release notes — be
 
 ---
 
-## 🔥 Recent Highlights
+## ◈ ENGINEERING IMPACT
+
+<p align="center">
+  <sub>MEASURED OUTPUT • SYSTEMS BUILT • PROBLEMS SOLVED</sub>
+</p>
+
+<br>
 
 <table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h2>45+</h2>
-      <sub>Production REST APIs shipped across authentication, business logic & data workflows</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>25%</h2>
-      <sub>Faster API response times through query & endpoint optimization</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>9</h2>
-      <sub>Professional certifications across Oracle, IBM, AWS & JPMorgan Chase</sub>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="25%">
+
+### `45+`
+
+**PRODUCTION APIs**
+
+<sub>
+Authentication<br>
+Business Logic<br>
+Data Workflows
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `25%`
+
+**LATENCY REDUCTION**
+
+<sub>
+Query Optimization<br>
+Endpoint Tuning<br>
+API Performance
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `25+`
+
+**HEALTHCARE APIs**
+
+<sub>
+RBAC<br>
+Consultations<br>
+Orders & Payments
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `9`
+
+**CERTIFICATIONS**
+
+<sub>
+Oracle • IBM<br>
+AWS • JPMorgan
+</sub>
+
+</td>
+
+</tr>
 </table>
 
-<br/>
+<br>
+
+---
+
+### ⚙️ WHAT I ACTUALLY BUILT
 
 <table width="100%">
-  <tr>
-    <td width="40" align="center">🏗️</td>
-    <td>
-      <b>Backend Impact</b><br/>
-      Shipped <b>45+ REST APIs</b> in production at WEBAI Digital Solutions, covering auth workflows, business logic, and database operations — then cut <b>API response time by 25%</b> through query and endpoint optimization.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🧠</td>
-    <td>
-      <b>Systems Engineering</b><br/>
-      Built a <b>Redis-compatible server from scratch</b> in Java over raw TCP sockets — implemented the RESP protocol, key expiry, and atomic <code>MULTI/EXEC/DISCARD</code> transactions, with concurrent connections handled via <code>CompletableFuture</code>.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🏥</td>
-    <td>
-      <b>Full-Stack Delivery</b><br/>
-      Designed and built a <b>Healthcare Management Platform</b> end-to-end — 25+ REST APIs with role-based access control across 3 user roles, covering consultations, diet plans, payments, and order management.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">☁️</td>
-    <td>
-      <b>Cloud & AI Credentials</b><br/>
-      Certified <b>Oracle Cloud Infrastructure Generative AI Professional</b> and <b>AI Foundations Associate</b> (2025), backed by hands-on Generative AI work building an email personalization engine.
-    </td>
-  </tr>
+
+<tr>
+<td width="8%" align="center">
+
+### `01`
+
+</td>
+
+<td width="92%">
+
+### 🚀 Production Backend Engineering
+
+Shipped **45+ REST APIs** at **WEBAI Digital Solutions**, covering authentication, business logic, database workflows and production application features.
+
+> **Impact:** Optimized queries and API endpoints to achieve approximately **25% faster response times**.
+
+`Java` `Spring Boot` `REST` `MySQL` `Redis`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `02`
+
+</td>
+
+<td>
+
+### ⚡ Systems Engineering
+
+Built a **Redis-compatible server from scratch in Java** to understand the internals behind an in-memory data system.
+
+Implemented **RESP protocol, raw TCP networking, key expiry and atomic `MULTI / EXEC / DISCARD` transactions**, with concurrent client handling using `CompletableFuture`.
+
+`Java` `TCP` `RESP` `Concurrency` `Docker`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `03`
+
+</td>
+
+<td>
+
+### 🏥 Full-Stack Product Engineering
+
+Designed and developed a **Healthcare Management Platform** with **25+ REST APIs** and role-based access across **three user roles**.
+
+Covered real-world workflows including **consultations, diet plans, payments and order management**.
+
+`Spring Boot` `Spring Security` `JWT` `MySQL` `React`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `04`
+
+</td>
+
+<td>
+
+### 🧠 AI Engineering
+
+Built an **AI-powered email personalization engine** that combines user assessment data with Generative AI to generate communication adapted to the recipient's profile.
+
+Also earned **Oracle Cloud Infrastructure Generative AI Professional** and **AI Foundations Associate** certifications.
+
+`Generative AI` `Spring Boot` `MySQL` `AI Integration`
+
+</td>
+</tr>
+
 </table>
+
+<br>
+
+---
+
+<p align="center">
+
+### `SYSTEMS → SCALE → INTELLIGENCE`
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-SYSTEMS%20ENGINEERING-0B1220?style=for-the-badge&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/02-PRODUCTION%20BACKEND-16324F?style=for-the-badge&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/03-AI%20ENGINEERING-6DB33F?style=for-the-badge&logoColor=white">
+
+</p>
+
+<p align="center">
+  <sub>From understanding protocols at the socket level to shipping production APIs and exploring intelligent systems.</sub>
+</p>
+
 
 
 ---
@@ -394,55 +526,179 @@ Docker • AWS • CI/CD
 
 ---
 
-## 🏆 Certifications
+## ◈ CREDENTIAL VAULT
 
-<table>
-  <tr>
-    <th align="left">Certification</th>
-    <th align="left">Issuer</th>
-    <th align="left">Date</th>
-  </tr>
-  <tr>
-    <td>Oracle Cloud Infrastructure 2025 Certified <b>Generative AI Professional</b></td>
-    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></td>
-    <td>Aug 2025</td>
-  </tr>
-  <tr>
-    <td>Oracle Cloud Infrastructure 2025 Certified <b>AI Foundations Associate</b></td>
-    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></td>
-    <td>Aug 2025</td>
-  </tr>
-  <tr>
-    <td><b>Cloud Computing Fundamentals</b> <a href="https://www.credly.com/badges/1c708811-e75b-4565-b632-f14e95483e9c" target="_blank">↗ Verify</a></td>
-    <td><img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white"/></td>
-    <td>Aug 2025</td>
-  </tr>
-  <tr>
-    <td><b>Solutions Architecture Job Simulation</b></td>
-    <td><img src="https://img.shields.io/badge/AWS_%2F_Forage-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></td>
-    <td>Jan 2026</td>
-  </tr>
-  <tr>
-    <td><b>Software Engineering Job Simulation</b></td>
-    <td><img src="https://img.shields.io/badge/JPMorgan_Chase_%2F_Forage-000000?style=flat-square&logo=jpmorganchase&logoColor=white"/></td>
-    <td>Jan 2026</td>
-  </tr>
-  <tr>
-    <td><b>Quantitative Research Job Simulation</b></td>
-    <td><img src="https://img.shields.io/badge/JPMorgan_Chase_%2F_Forage-000000?style=flat-square&logo=jpmorganchase&logoColor=white"/></td>
-    <td>Jan 2026</td>
-  </tr>
-  <tr>
-    <td><b>Programming in Java</b> — Elite, 79%</td>
-    <td><img src="https://img.shields.io/badge/NPTEL_%E2%80%A2_IIT_Kharagpur-A6192E?style=flat-square"/></td>
-    <td>Apr 2025</td>
-  </tr>
-  <tr>
-    <td><b>Spring Boot 4, Spring 7 & Hibernate for Beginners</b> — 35.5 hrs</td>
-    <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
-    <td>Nov 2024</td>
-  </tr>
+<p align="center">
+  <sub>VERIFIED LEARNING • CLOUD • AI • SOFTWARE ENGINEERING</sub>
+</p>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+### ☁️ ORACLE CLOUD
+
+<img src="https://img.shields.io/badge/ORACLE-CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+<br><br>
+
+**Generative AI Professional**
+
+`OCI 2025 Certified`
+
+<br>
+
+**Aug 2025**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 ORACLE AI
+
+<img src="https://img.shields.io/badge/ORACLE-AI-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+<br><br>
+
+**AI Foundations Associate**
+
+`OCI 2025 Certified`
+
+<br>
+
+**Aug 2025**
+
+</td>
+
+</tr>
 </table>
+
+<br>
+
+---
+
+### ◇ PROFESSIONAL CREDENTIALS
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud Computing Fundamentals
+
+**IBM SkillsBuild**
+
+`Aug 2025`
+
+<a href="https://www.credly.com/badges/1c708811-e75b-4565-b632-f14e95483e9c">
+<img src="https://img.shields.io/badge/VERIFY%20CREDENTIAL-052FAD?style=for-the-badge&logo=credly&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Solutions Architecture
+
+**AWS / Forage**
+
+`Job Simulation • Jan 2026`
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+**JPMorgan Chase / Forage**
+
+`Job Simulation • Jan 2026`
+
+<img src="https://img.shields.io/badge/JPMORGAN%20CHASE-000000?style=flat-square&logo=jpmorganchase&logoColor=white">
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Quantitative Research
+
+**JPMorgan Chase / Forage**
+
+`Job Simulation • Jan 2026`
+
+<img src="https://img.shields.io/badge/JPMORGAN%20CHASE-000000?style=flat-square&logo=jpmorganchase&logoColor=white">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☕ Programming in Java
+
+**NPTEL • IIT Kharagpur**
+
+`Elite • 79% • Apr 2025`
+
+<img src="https://img.shields.io/badge/NPTEL-A6192E?style=flat-square">
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Spring Boot 4 + Spring 7 + Hibernate
+
+**Udemy**
+
+`35.5 Hours • Nov 2024`
+
+<img src="https://img.shields.io/badge/UDEMY-A435F0?style=flat-square&logo=udemy&logoColor=white">
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<p align="center">
+
+### `CREDENTIAL MAP`
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/☁%20CLOUD-Oracle%20%7C%20IBM-0B1220?style=for-the-badge">
+<img src="https://img.shields.io/badge/🤖%20AI-Oracle%20GenAI-16324F?style=for-the-badge">
+<img src="https://img.shields.io/badge/☕%20JAVA-NPTEL-6DB33F?style=for-the-badge">
+<img src="https://img.shields.io/badge/🏗%20ENGINEERING-AWS%20%7C%20JPMorgan-2E7D5B?style=for-the-badge">
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>8 credentials across Cloud, AI, Java & Software Engineering</b>
+  <br>
+  <sub>Selected credentials supporting hands-on engineering experience.</sub>
+</p>
+
 
 ---
 
